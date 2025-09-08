@@ -14,7 +14,18 @@ roles/
 ├── data/          # Data science and analytics roles
 ├── devops/        # DevOps and infrastructure roles
 ├── security/      # Information security roles
-└── support/       # Customer support and success roles
+├── support/       # Customer support and success roles
+├── sales/         # Sales and business development roles
+├── marketing/     # Marketing and growth roles
+├── legal/         # Legal and compliance roles
+├── finance/       # Finance and operations roles
+└── ai-ml/         # AI/ML specialized roles
+
+career-paths/      # Career progression guides
+scenarios/         # Day-in-the-life examples
+interviews/        # Interview guides and questions
+skills/           # Skills matrices and competencies
+onboarding/       # Onboarding resources (coming soon)
 ```
 
 ## Role Categories
@@ -81,6 +92,51 @@ roles/
 - [Technical Account Manager](roles/support/Technical_Account_Manager.md)
 - [Customer Support Engineer](roles/support/Customer_Support_Engineer.md)
 
+### Sales & Business Development
+- [Chief Revenue Officer (CRO)](roles/sales/CRO.md)
+- [VP of Sales](roles/sales/VP_Sales.md)
+- [Account Executive](roles/sales/Account_Executive.md)
+- [Sales Engineer](roles/sales/Sales_Engineer.md)
+- [Sales Development Representative (SDR)](roles/sales/SDR.md)
+
+### Marketing & Growth
+- [Growth Manager](roles/marketing/Growth_Manager.md)
+- [Product Marketing Manager](roles/marketing/Product_Marketing_Manager.md)
+- [Content Marketing Manager](roles/marketing/Content_Marketing_Manager.md)
+- [Developer Relations (DevRel)](roles/marketing/DevRel.md)
+
+### Legal & Compliance
+- [General Counsel](roles/legal/General_Counsel.md)
+- [Privacy Officer / DPO](roles/legal/Privacy_Officer.md)
+
+### Finance & Operations
+- [Project Manager](roles/finance/Project_Manager.md)
+- [Business Analyst](roles/finance/Business_Analyst.md)
+- [Program Manager](roles/finance/Program_Manager.md)
+
+### AI/ML Specialized
+- [Machine Learning Engineer](roles/ai-ml/ML_Engineer.md)
+- [MLOps Engineer](roles/ai-ml/MLOps_Engineer.md)
+- [AI Research Scientist](roles/ai-ml/AI_Research_Scientist.md)
+- [Prompt Engineer](roles/ai-ml/Prompt_Engineer.md)
+- [Context Engineer](roles/ai-ml/Context_Engineer.md)
+
+## Enhanced Resources
+
+### Career Development
+- [Engineering Career Progression](career-paths/engineering-track.md)
+- [Product Management Career Path](career-paths/product-track.md)
+
+### Day-in-the-Life Scenarios
+- [Senior Software Engineer](scenarios/senior-engineer-typical-day.md)
+- [Product Manager](scenarios/product-manager-typical-day.md)
+
+### Interview Resources
+- [Software Engineer Interview Guide](interviews/software-engineer-interview-guide.md)
+
+### Skills Development
+- [Engineering Skills Matrix](skills/engineering-skills-matrix.md)
+
 ## Role Document Structure
 
 Each role document contains:
@@ -93,14 +149,68 @@ Each role document contains:
 ## Usage
 
 These role definitions can be used for:
-- Job descriptions and posting creation
-- Career path planning
-- Performance review frameworks
-- Organizational design
-- Compensation benchmarking
-- Team structure planning
-- Skills gap analysis
+- **Hiring & Recruitment**: Job descriptions, interview guides, assessment criteria
+- **Career Development**: Career path planning, skill development, progression frameworks
+- **Performance Management**: Review criteria, goal setting, competency assessments
+- **Organizational Design**: Team structure, reporting lines, role clarity
+- **Compensation**: Benchmarking, leveling, equity guidelines
+- **Onboarding**: Role expectations, day-in-the-life scenarios, success metrics
+- **Skills Development**: Gap analysis, training plans, mentorship programs
+
+## Key Features
+
+### 📁 60+ Detailed Role Definitions
+Comprehensive descriptions across all major tech organization functions
+
+### 🎯 Career Progression Paths
+Clear advancement tracks for engineering, product, and other disciplines
+
+### 📊 Skills Matrices
+Detailed competency frameworks with proficiency levels
+
+### 📝 Interview Guides
+Structured interview questions and evaluation criteria
+
+### 🌟 Real-World Scenarios
+Day-in-the-life examples showing typical responsibilities and interactions
+
+### 🚀 Modern Roles
+Including AI/ML, DevOps, Growth, and other emerging positions
+
+## Quick Links
+
+### Most Popular Roles
+- [Software Engineer](roles/engineering/Software_Engineer.md)
+- [Product Manager](roles/product/Product_Manager.md)
+- [Engineering Manager](roles/engineering/Engineering_Manager.md)
+- [Data Scientist](roles/data/Data_Scientist.md)
+- [DevOps Engineer](roles/devops/DevOps_Engineer.md)
+
+### Leadership Roles
+- [CTO](roles/executive/CTO.md)
+- [VP of Engineering](roles/executive/VP_Engineering.md)
+- [CPO](roles/executive/CPO.md)
+- [CISO](roles/security/CISO.md)
 
 ## Contributing
 
-To add new roles or update existing ones, ensure each document follows the established template and includes all required sections.
+To add new roles or update existing ones:
+1. Follow the established template structure
+2. Include all required sections (Overview, Responsibilities, Skills, Reporting, Metrics)
+3. Ensure consistency with existing role levels
+4. Add appropriate cross-references to related roles
+5. Update relevant career paths and skill matrices
+
+## Future Additions
+
+Coming soon:
+- Onboarding checklists and 30-60-90 day plans
+- Compensation frameworks and equity guidelines
+- Remote work considerations
+- Industry-specific variations
+- Team interaction maps
+- Performance review templates
+
+## License
+
+This repository is available as a reference for building effective tech organizations. Feel free to adapt these resources for your organization's needs.
