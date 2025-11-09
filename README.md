@@ -133,6 +133,7 @@ onboarding/       # Onboarding resources (coming soon)
 
 ### Interview Resources
 - [Software Engineer Interview Guide](interviews/software-engineer-interview-guide.md)
+- [QA Engineer Interview Guide](interviews/qa-engineer-interview-guide.md)
 
 ### Skills Development
 - [Engineering Skills Matrix](skills/engineering-skills-matrix.md)
@@ -156,6 +157,8 @@ These role definitions can be used for:
 - **Compensation**: Benchmarking, leveling, equity guidelines
 - **Onboarding**: Role expectations, day-in-the-life scenarios, success metrics
 - **Skills Development**: Gap analysis, training plans, mentorship programs
+
+📘 **For comprehensive use cases and implementation guides, see [USE_CASES.md](USE_CASES.md)**
 
 ## Key Features
 
